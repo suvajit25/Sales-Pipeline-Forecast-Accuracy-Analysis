@@ -44,11 +44,6 @@ Using a dimensional (star schema) semantic model in Power BI, the analysis ident
 - **Sales Rep Performance** — Conversion rate and average cycle time by rep, to surface coaching opportunities.
 - **Bottleneck Drill-Through** — Stage-level drill-through page showing deal-level detail for any stage with high drop-off.
 
-*(Add screenshots here — export as PNG from Power BI and place in `/screenshots/` folder, then reference them below):*
-
-```markdown
-![Pipeline Overview](screenshots/pipeline_overview.png)
-![Forecast Accuracy](screenshots/forecast_accuracy.png)
 ```
 
 ---
